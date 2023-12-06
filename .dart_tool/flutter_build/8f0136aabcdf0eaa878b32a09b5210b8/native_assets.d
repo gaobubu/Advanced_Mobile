@@ -1,0 +1,1 @@
+ E:\\computer-study\\Flutter-Project\\flutter_project\\ltddnc_doan\\ltddnc_doan\\.dart_tool\\flutter_build\\8f0136aabcdf0eaa878b32a09b5210b8\\native_assets.yaml: 
